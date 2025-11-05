@@ -1,0 +1,8 @@
+email,firstname,lastname,course_id,grades,marks
+bb@gmail.com,bb,bb,DATA202,C,73
+cc@gmail.com,cc,cc,DATA202,B,80
+aa@gmail.com,aa,aa,DATA201,B,85
+vv@gmail.com,vv,vv,DATA201,A,91
+testing@gmail.com,test,test,DATA202,A,100
+qq@gmail.com,qq,qq,DATA200,A,98
+testing@gmail.com,test,test,DATA200,A,94
